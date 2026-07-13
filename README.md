@@ -87,3 +87,4 @@ This is a real, working pipeline built entirely from free tiers, not a
 single unified model like Suno's. Expect to bounce between this app and two
 Colab tabs rather than one seamless interface — that's the actual trade-off
 of doing this for free.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a880b9db-7e27-49cb-86ab-daf57afc0f63/deploy-status)](https://app.netlify.com/projects/red-e-musicai/deploys)
